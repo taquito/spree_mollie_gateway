@@ -1,6 +1,11 @@
 # SpreeMollieGateway
 
-Mollie ActiveMerchant payment gateway for Spree
+Mollie ActiveMerchant payment gateway for Spree.
+
+This gem uses the [Spree Gateway][] engine to hook the [ActiveMerchant Mollie][] gem into your Spree store.
+
+[spree_gateway]: https://github.com/spree/spree_gateway "Spree Gateway"
+[active_merchant_mollie]: https://github.com/bluetools/active_merchant_mollie "ActiveMerchant Mollie"
 
 ## Installation
 
